@@ -4,10 +4,10 @@ const contenedorCorazones = document.querySelector('.corazones');
 
 boton.addEventListener('click', () => {
     mensaje.innerHTML = `
-        💌 Joselyn, sé que fallé y me duele saber que estás enojada conmigo.  
+        💌 Katherin, sé que no te gusto pero te expreso mi amor.  
         Pero quiero que sepas que vales muchísimo para mí,  
         y haré lo que sea por recuperar tu sonrisa 💖.  
-        <br><br><strong>¿Me perdonas?</strong> 😢
+        <br><br><strong>¿MI BB?</strong> 
     `;
 
     crearCorazones();
@@ -27,3 +27,4 @@ function crearCorazones() {
         }, 5000);
     }
 }
+
