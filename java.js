@@ -4,7 +4,7 @@ const contenedorCorazones = document.querySelector('.corazones');
 
 boton.addEventListener('click', () => {
     mensaje.innerHTML = `
-        💌 Katherin, sé que no te gusto pero te expreso mi amor.  
+        💌 MARIA, sé que no te gusto pero te expreso mi amor.  
         Pero quiero que sepas que vales muchísimo para mí,  
         y haré lo que sea por recuperar tu sonrisa 💖.  
         <br><br><strong>¿MI BB?</strong> 
@@ -27,4 +27,5 @@ function crearCorazones() {
         }, 5000);
     }
 }
+
 
